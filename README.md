@@ -1,7 +1,8 @@
-## Hi 👋
+## Hi, I'm Ostap 👋
 
-- 🎓 I'm student of Computer Science at Gdańsk University of Technology
+- 🎓 I'm student of **Computer Science** at Gdańsk University of Technology
 - 🌱 I’m currently learning **cybersecurity**
+- 📫 How to reach me? **ostlozovyy@gmail.com**
 - ⚡ I'm interested in maths and geography
 
 ## Languages and technologies
@@ -18,7 +19,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-
 
 
 
