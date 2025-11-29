@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning **machine learning**
 - 📫 How to reach me? **ostaplozovyy25@gmail.com**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agoneiro&layout=compact)
 
 
 
